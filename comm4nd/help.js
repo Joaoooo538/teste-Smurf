@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	return `
-「 *May Bot* 」
+「 *SMURFS BOT* 」
 
 「 Olá ${pushname}
   ❏ Prefixo: ${prefix} 」
@@ -29,8 +29,7 @@ const help = (prefix) => {
   ❏ ${prefix}credits
    ➰ O nome já fala
 
-「 ${pushname} qualquer bug:
-  ❏ SAC: wa.me/+5511930758170 」`
+
 }
 
 exports.help = help
